@@ -17,3 +17,10 @@
 - All request handling information should be typed and self-contained.
 - Decisions should not be forced.
 
+## Lifecycle
+
+- Routing
+- Validation
+- Processing
+- Response
+
